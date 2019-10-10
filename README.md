@@ -3,7 +3,7 @@
 **This is v5.4.15-dragon stable release**
 
 
-![AVL Kernel](https://dragon-kernel.pro/images/g.jpeg)
+![AVL Kernel](https://dragon-kernel.ga/images/g.jpeg)
 
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
@@ -22,6 +22,9 @@ major.minor[.maintenance-build]  (Example: 5.4.15-dragon)
 
 major.minor is mainline kernel version,  maintenance build is Dragon kernel version.
 ```
+
+Project site - [Dragon Kernel](https://dragon-kernel.ga)
+
 
 ---
 
