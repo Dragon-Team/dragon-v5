@@ -1,4 +1,4 @@
-# Ubuntu Dragon Kernel 5.4+-dragon
+# Ubuntu Dragon Kernel 5.4+
 
 
 ![AVL Kernel](https://dragon-kernel.ga/images/g.jpeg)
