@@ -1,7 +1,7 @@
 # Ubuntu Dragon Kernel 5.9+
 
 
-![AVL Kernel](https://dragon-kernel.ga/images/g.jpeg)
+![AVL Kernel](https://dragon-kernel.site/images/g.jpeg)
 
 
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](https://github.com/RichardLitt/standard-readme)
@@ -21,7 +21,7 @@ major.minor[.maintenance-build]  (Example: 5.9.99-dragon)
 major.minor is mainline kernel version,  maintenance build is Dragon kernel version.
 ```
 
-Project site - [Dragon Kernel](https://dragon-kernel.ga)
+Project site - [Dragon Kernel](https://dragon-kernel.site)
 
 
 ---
