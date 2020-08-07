@@ -1,4 +1,4 @@
-# Ubuntu Dragon Kernel 5.4+
+# Ubuntu Dragon Kernel 5.9+
 
 
 ![AVL Kernel](https://dragon-kernel.ga/images/g.jpeg)
@@ -16,7 +16,7 @@
 Dragon Kernel no longer uses the stable version of the Linux kernel, all builds are based only on the mainline version.
 
 ```
-major.minor[.maintenance-build]  (Example: 5.4.99-dragon)
+major.minor[.maintenance-build]  (Example: 5.9.99-dragon)
 
 major.minor is mainline kernel version,  maintenance build is Dragon kernel version.
 ```
